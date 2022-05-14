@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Artix Dark Plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Artix Dark
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=nous
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=nous@artixlinux.org
+X-KDE-PluginInfo-License=GPL2
+X-KDE-PluginInfo-Name=artix.dark
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://gitea.artixlinux.org
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=
+X-Plasma-MainScript=defaults

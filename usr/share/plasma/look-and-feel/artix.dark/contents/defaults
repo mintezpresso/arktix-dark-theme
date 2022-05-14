@@ -1,0 +1,25 @@
+[kcminputrc][Mouse]
+cursorTheme=Premium
+
+[kdeglobals][General]
+ColorScheme=Artix-dark
+Name=Artix Dark
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
+[kdeglobals][KDE]
+widgetStyle=oxygen
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.oxygen
+theme=
+
+[plasmarc][Theme]
+name=breeze-dark
